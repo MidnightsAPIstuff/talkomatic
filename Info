@@ -1,0 +1,57 @@
+[19:44:41] [+] | Domain: classic.talkomatic.co
+[19:44:41] [+] | IP: 172.67.207.237
+[19:44:41] [+] | IP Type: ipv4
+[19:44:41] [+] | Secure: True
+[19:44:42] [+] | Status Code: 200
+[19:44:42] [+] | Host Country: US
+[19:44:42] [+] | Host Org: AS13335 Cloudflare, Inc.
+[19:44:47] [+] | Port: 80 Status: Open Protocol: HTTP
+[19:44:47] [+] | Port: 443 Status: Open Protocol: HTTPS
+[19:44:48] [+] | HTTP Header: Date Value: Fri, 30 Jan 2026 00:44:49 GMT
+[19:44:48] [+] | HTTP Header: Content-Type Value: text/html; charset=UTF-8
+[19:44:48] [+] | HTTP Header: Transfer-Encoding Value: chunked
+[19:44:48] [+] | HTTP Header: Connection Value: keep-alive
+[19:44:48] [+] | HTTP Header: Server Value: cloudflare
+[19:44:48] [+] | HTTP Header: vary Value: Accept-Encoding, Origin
+[19:44:48] [+] | HTTP Header: access-control-allow-credentials Value: true
+[19:44:48] [+] | HTTP Header: content-security-policy Value: default-src 'self';script-src 'self' 'nonce-IE8cj2bNzqSeNkJBuzXcjg==' https://cdnjs.cloudflare.com https://classic.talkomatic.co https://unpkg.com https://static.cloudflareinsights.com;script-src-elem 'self' 'nonce-IE8cj2bNzqSeNkJBuzXcjg==' https://cdnjs.cloudflare.com https://classic.talkomatic.co https://unpkg.com https://static.cloudflareinsights.com;style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com;style-src-elem 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com;img-src 'self' data: https: blob:;font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com https://classic.talkomatic.co;connect-src 'self' https://classic.talkomatic.co;media-src 'self' data:;frame-ancestors 'self' *;frame-src 'none';object-src 'none';base-uri 'self';form-action 'self';script-src-attr 'none';upgrade-insecure-requests
+[19:44:48] [+] | HTTP Header: cross-origin-resource-policy Value: cross-origin
+[19:44:48] [+] | HTTP Header: origin-agent-cluster Value: ?1
+[19:44:48] [+] | HTTP Header: referrer-policy Value: no-referrer, no-referrer-when-downgrade
+[19:44:48] [+] | HTTP Header: strict-transport-security Value: max-age=15552000; includeSubDomains
+[19:44:48] [+] | HTTP Header: x-content-type-options Value: nosniff, nosniff
+[19:44:48] [+] | HTTP Header: x-dns-prefetch-control Value: off
+[19:44:48] [+] | HTTP Header: x-download-options Value: noopen
+[19:44:48] [+] | HTTP Header: x-frame-options Value: SAMEORIGIN, SAMEORIGIN
+[19:44:48] [+] | HTTP Header: x-permitted-cross-domain-policies Value: none
+[19:44:48] [+] | HTTP Header: x-xss-protection Value: 0, 1; mode=block
+[19:44:48] [+] | HTTP Header: ratelimit-policy Value: 100;w=900
+[19:44:48] [+] | HTTP Header: ratelimit-limit Value: 100
+[19:44:48] [+] | HTTP Header: ratelimit-remaining Value: 90
+[19:44:48] [+] | HTTP Header: ratelimit-reset Value: 841
+[19:44:48] [+] | HTTP Header: Cache-Control Value: public, max-age=0
+[19:44:48] [+] | HTTP Header: last-modified Value: Mon, 04 Aug 2025 19:12:16 GMT
+[19:44:48] [+] | HTTP Header: Speculation-Rules Value: "/cdn-cgi/speculation"
+[19:44:48] [+] | HTTP Header: Set-Cookie Value: connect.sid=s%3AD_me13Zk7fCmoQ48lbhK5P-mry2xXd6t.WYMamR%2B6%2BrKljfx8wIEb%2BGJdbOYooRtOzNBRbWDmELc; Path=/; Expires=Fri, 13 Feb 2026 00:44:49 GMT; HttpOnly; SameSite=Lax
+[19:44:48] [+] | HTTP Header: Report-To Value: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YHOE5TRHvII0%2Bp3DiaEk970yvRNG%2FKiCO7FClpqZwVXNY5XyMMyCGdnMe0xxHI9%2FbjUi6nyoYKcH6cy8%2BIjaM0rgQeF2U1k5ZFfvfZvJvf%2FCxg3W%2FwplIC9%2B3BStNd7Hmw%3D%3D"}]}
+[19:44:48] [+] | HTTP Header: cf-cache-status Value: DYNAMIC
+[19:44:48] [+] | HTTP Header: Nel Value: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+[19:44:48] [+] | HTTP Header: Content-Encoding Value: gzip
+[19:44:48] [+] | HTTP Header: CF-RAY Value: 9c5cf16b2af5e9de-CMH
+[19:44:48] [+] | HTTP Header: alt-svc Value: h3=":443"; ma=86400
+[19:44:48] [+] | SSL Certificate Key: subject Value: ((('commonName', 'talkomatic.co'),),)
+[19:44:48] [+] | SSL Certificate Key: issuer Value: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services'),), (('commonName', 'WE1'),))
+[19:44:48] [+] | SSL Certificate Key: version Value: 3
+[19:44:48] [+] | SSL Certificate Key: serialNumber Value: D3C5CA62DCED0D9711FD10DA9035F0CB
+[19:44:48] [+] | SSL Certificate Key: notBefore Value: Dec 14 20:43:03 2025 GMT
+[19:44:48] [+] | SSL Certificate Key: notAfter Value: Mar 14 21:40:33 2026 GMT
+[19:44:48] [+] | SSL Certificate Key: subjectAltName Value: (('DNS', 'talkomatic.co'), ('DNS', '*.talkomatic.co'))
+[19:44:48] [+] | SSL Certificate Key: OCSP Value: ('http://o.pki.goog/s/we1/08U',)
+[19:44:48] [+] | SSL Certificate Key: caIssuers Value: ('http://i.pki.goog/we1.crt',)
+[19:44:48] [+] | SSL Certificate Key: crlDistributionPoints Value: ('http://c.pki.goog/we1/pnDlkWlcNeI.crl',)
+[19:44:49] [+] | Security Header: Content-Security-Policy
+[19:44:49] [+] | Security Header: Strict-Transport-Security
+[19:44:49] [+] | Security Header: X-Content-Type-Options
+[19:44:49] [+] | Security Header: X-Frame-Options
+[19:44:49] [+] | Security Header: X-XSS-Protection
+[19:44:49] [+] | Cookie: connect.sid Secure: Not Secure HttpOnly: HttpOnly
