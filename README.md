@@ -1,2 +1,7 @@
-# doxbin-html
-some of doxbins HTML, no i do not dislike doxbin or want to do anything with this, im just doing this for fun. there  is no private information in this
+# Talkomatic Source Code And Website Info
+
+this WONT contain: extremely harmful information
+this WILL contain: website data, HTML, CSS, (maybe PHP and JS aswell)
+
+i, TanCodes Have 0 intent to harm this website.
+
