@@ -11,7 +11,12 @@ their **ONLY** link is talkomatic.co
 current server build: 1.5.0
 up for: 115d (right now)
 
+
+
 **We believe information wants to be free**, especially when it's 50-year-old chat tech dressed in 2025 React.
+
+
+
 
 ***🔓 obtained legally (atleast in the US)***
 Source Code Viewing
