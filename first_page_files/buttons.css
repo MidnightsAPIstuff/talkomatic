@@ -1,0 +1,8 @@
+/* buttons.css */
+
+/* Basic button styling carried over */
+.button {
+  position: relative;
+  /* Removed extra padding/positioning from the Santa hat */
+  padding-left: 20px;
+}
