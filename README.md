@@ -1,9 +1,15 @@
-# Talkomatic Source Code And Website Info
+# 🌐🔓 TalkoMatic.co Source Code leak
 
-this WONT contain: extremely harmful information
-this WILL contain: website data, HTML, CSS, (maybe PHP and JS aswell)
+## 🚨 LEGAL & ETHICS DISCLAIMER (that nobody reads)
 
-![image](https://files.catbox.moe/rk6n4w.png)
+The uploader claims no ownership. Use at your own risk.  
+If you're the original copyright holder: hi :) feel free to issue a DMCA — it'll look cool in the repo history.
+i dont have an intent to harm the website in any way, anythin that anyone does with the code isnt my responsibility
 
-i, TanCodes Have 0 intent to harm this website.
+**We believe information wants to be free**, especially when it's 50-year-old chat tech dressed in 2025 React.
 
+***🔓 obtained legally (atleast in the US)***
+Source Code Viewing
+website lookup
+whois
+etc..
